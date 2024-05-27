@@ -1,1 +1,10 @@
 print("Hello World")
+print("My name is Mehdiali. ", "I live in ahmedabad.")
+
+print(786)
+print("786 - 86 =", 786-86)
+print("400 + 100 =",400+100)
+print("25 * 5 =",25*5)
+print("30 / 6 =",30/6)
+print("33 / 6 =",33/6)
+print("33 % 6 =", 33 % 6)
