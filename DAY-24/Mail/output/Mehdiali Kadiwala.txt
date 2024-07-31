@@ -1,0 +1,6 @@
+Dear Mehdiali Kadiwala,
+
+This is my first mail which I have created using python to operate mail merge.
+
+Regards
+Mehdiali Kadiwala
