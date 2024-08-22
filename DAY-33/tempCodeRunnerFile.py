@@ -1,0 +1,1 @@
+data["results"]["sunrise"].split("T")[1].split(":")[0]
