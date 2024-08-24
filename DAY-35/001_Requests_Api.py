@@ -1,7 +1,7 @@
 import requests
 
 apiEndpoint = "https://api.openweathermap.org/data/2.5/weather"
-apiKey = "50f281806b06ecc7a08b9021c7be86ca"
+apiKey = "Your API KEY"
 
 weatherParameters = {
     "q": "Ahmedabad,IN",
